@@ -91,6 +91,3 @@ To run the project, you should provide a similar multivariate time-series datase
 
 ---
 
-## 📄 License
-
-This project is intended for educational use. Please cite appropriately if reused or extended.
